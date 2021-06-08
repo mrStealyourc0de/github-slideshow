@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-This is a test.
+Royal with cheese
 Use the left arrow to go back!
